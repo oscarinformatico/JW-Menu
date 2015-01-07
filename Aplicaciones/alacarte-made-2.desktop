@@ -1,0 +1,33 @@
+[Desktop Entry]
+Comment=Sitio oficial de los testigos de Jehová: jw.org
+Name=JW.ORG Sitio oficial de los testigos de Jehová: jw.org
+Exec=firefox http://www.jw.org/es/
+Actions=Action0;Action1;Action2;Action3;Action4
+Terminal=false
+Type=Application
+Icon=/home/hacksordo/Imágenes/JW.ORG 2013.ico
+
+[Desktop Action Action2]
+Name=Jóvenes
+Name[es_VE]=Jóvenes
+Exec=firefox http://www.jw.org/es/enseñanzas-bíblicas/familias/jóvenes/
+
+[Desktop Action Action3]
+Name=niños
+Name[es_VE]=niños
+Exec=firefox http://www.jw.org/es/enseñanzas-bíblicas/familias/niños/
+
+[Desktop Action Action0]
+Name=Veo lo nuevo
+Name[es_VE]=Veo lo nuevo
+Exec=firefox http://www.jw.org/es/lo-nuevo/
+
+[Desktop Action Action1]
+Name=Matrimonios y padres
+Name[es_VE]=Matrimonios y padres
+Exec=firefox http://www.jw.org/es/enseñanzas-bíblicas/familias/matrimonios-padres/
+
+[Desktop Action Action4]
+Name=publicaciones
+Name[es_VE]=publicaciones
+Exec=firefox http://www.jw.org/es/publicaciones/

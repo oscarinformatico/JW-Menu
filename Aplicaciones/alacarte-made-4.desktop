@@ -1,0 +1,54 @@
+[Desktop Entry]
+Comment=Descargue o lea en línea los últimos números de las revistas La Atalaya y ¡Despertad! y otros recursos recomendados.
+Name=JW.ORG Lengua de señas LSV
+Exec=firefox http://www.jw.org/vsl/
+Actions=Action4;Action0;Action1;Action2;Action8;Action5;Action3;Action6;Action7
+Terminal=false
+Type=Application
+Icon=/home/hacksordo/Imágenes/JW.ORG Libros de la Biblia 2013.ico
+
+[Desktop Action Action8]
+Name=Our Kingdom Ministry LSC
+Name[es_VE]=Our Kingdom Ministry LSC
+Exec=firefox http://www.jw.org/vsl/publicaciones/kingdom-ministry-vsl/?contentLanguageFilter=csn&yearFilter=
+
+[Desktop Action Action2]
+Name=VIDEOS (LIBROS Y MÁS)
+Name[es_VE]=VIDEOS (LIBROS Y MÁS)
+Exec=firefox http://www.jw.org/vsl/publicaciones/libros-señas/
+
+[Desktop Action Action3]
+Name=TEATRO EN VIDEO
+Name[es_VE]=TEATRO EN VIDEO
+Exec=firefox http://www.jw.org/vsl/publicaciones/obras-teatrales/
+
+[Desktop Action Action0]
+Name=BIBLIA
+Name[es_VE]=BIBLIA
+Exec=firefox http://www.jw.org/vsl/publicaciones/biblia/
+
+[Desktop Action Action1]
+Name=LA ATALAYA
+Name[es_VE]=LA ATALAYA
+Exec=firefox http://www.jw.org/vsl/publicaciones/revistas/
+
+[Desktop Action Action6]
+Name=LA BIBLIA EN SEÑAS (CON PERSONAJES)
+Name[es_VE]=LA BIBLIA EN SEÑAS (CON PERSONAJES)
+Exec=firefox http://www.jw.org/vsl/publicaciones/biblia-señas-personajes/
+
+[Desktop Action Action7]
+Name=PELÍCULAS
+Name[es_VE]=PELÍCULAS
+Exec=firefox http://www.jw.org/vsl/publicaciones/videos/
+
+[Desktop Action Action4]
+Name=VIDEOS NUEVOS
+Name[es_VE]=VIDEOS NUEVOS
+Exec=firefox http://www.jw.org/vsl/publicaciones/
+
+[Desktop Action Action5]
+Name=CANCIONES EN SEÑAS
+Name[es_VE]=CANCIONES EN SEÑAS
+Exec=firefox http://www.jw.org/vsl/publicaciones/canciones-señas/
+

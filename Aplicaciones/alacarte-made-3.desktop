@@ -1,0 +1,34 @@
+[Desktop Entry]
+Comment=Selecciones un lenguaje de señas
+Name=JW.ORG Seleccione un lenguaje de señas
+Exec=firefox http://www.jw.org/vsl/publicaciones/biblia/
+Actions=Action0;Action1;Action2;Action4
+Terminal=false
+Type=Application
+Icon=/home/hacksordo/Imágenes/JW.ORG Lengua de señas 2013.ico
+
+[Desktop Action Action2]
+Name=Lenguaje de señas ruso
+Name[es_VE]=Lenguaje de señas ruso
+Exec=firefox http://www.jw.org/vsl/publicaciones/biblia/?contentLanguageFilter=rsl
+
+[Desktop Action Action3]
+Name=Lengua de señas venezolana
+Name[es_VE]=Lengua de señas venezolana
+Exec=firefox http://www.jw.org/apps/S_QrYQZRQVNFVTr?selLang=LSV&btnSelect=Seleccionar
+
+[Desktop Action Action0]
+Name=Lenguaje de señas americano
+Name[es_VE]=Lenguaje de señas americano
+Exec=firefox http://www.jw.org/vsl/publicaciones/biblia/?contentLanguageFilter=ase
+
+[Desktop Action Action1]
+Name=Lengua de señas colombiana
+Name[es_VE]=Lengua de señas colombiana
+Exec=firefox http://www.jw.org/vsl/publicaciones/biblia/?contentLanguageFilter=csn
+
+[Desktop Action Action4]
+Name=Langua de señas peruano
+Name[es_VE]=Langua de señas peruano
+Exec=firefox http://www.jw.org/vsl/publicaciones/?contentLanguageFilter=prl
+

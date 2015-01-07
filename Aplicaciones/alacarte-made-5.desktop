@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=En esta página podrá consultar las publicaciones de los testigos de Jehová en varios idiomas.
+Name=WOL.JW.ORG
+Exec=firefox http://wol.jw.org/es
+Actions=
+Terminal=false
+Type=Application
+Icon=/home/hacksordo/Imágenes/wol.jw.ico
+
+Hidden=true
